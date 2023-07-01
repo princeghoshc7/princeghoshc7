@@ -1,6 +1,6 @@
 👋 Hello
 
-🔭 Salesforce Associate | Trailblazer | Cloud Enthusiast | Salesforce Quality Assurance Engineer | SDET | Test Automation Specialist
+🔭 Salesforce Associate | Trailblazer | Cloud Enthusiast | Salesforce Quality Assurance Engineer | SDET | Test Automation Specialist | QA Engineer | Software Tester | Quality Advocate
 
 🌟 As a Salesforce Associate, I bring my expertise in Salesforce technologies to drive business success. I am passionate about leveraging the power of the Salesforce ecosystem to deliver innovative solutions and enhance customer experiences. I specialize in Software Development Engineering in Test (SDET), combining my expertise in both development and testing to create robust and efficient test automation frameworks. 
 
