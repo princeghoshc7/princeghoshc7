@@ -8,10 +8,7 @@
 
 🚀 My skills include:
 - Salesforce Administration and Configuration
-- Apex Development
-- Lightning Components and Aura Framework
 - Data Management and Integration
-- Salesforce Automation and Workflow
 - SDET Practices and Methodologies
 - Test Planning and Strategy
 - Test Case Design and Execution
@@ -20,7 +17,6 @@
 - Defect Tracking and Reporting (e.g., JIRA)
 - Agile Development and Scrum   
 - Test Automation Framework Development
-- Salesforce Apex and Lightning Component Testing
 - Continuous Integration and Deployment (CI/CD)
 - API Testing (REST/SOAP) and Integration Testing
 
